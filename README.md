@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Serge Francis, a software engineer from Pittsburgh.
+I'm Francis, a software engineer from Pittsburgh.
 
 I'm primarily interested in full-stack development and currently work as a software engineer.
 
