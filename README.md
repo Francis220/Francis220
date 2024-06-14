@@ -1,19 +1,12 @@
-# Hi there 👋
+# Yoooo 👋
 
-I'm Francis, a software engineer from Pittsburgh.
+Hey, I'm Francis! I'm a software engineer based in Pittsburgh.
 
-I'm primarily interested in full-stack development and currently work as a software engineer.
-
-Throughout my career, I have been drawn to projects that make a significant impact on a large scale. I've had the privilege of working on industry-leading services and applications with over 100 million installations. My contributions have included developing and launching major features, as well as automating systems in high-traffic, customer-facing consoles.
-
-## Let's connect
+I love working on full-stack projects and building cool stuff that people can use. When I'm not coding, you can usually find me exploring the city, trying out some new video games, or playing soccer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francis360/" target="_blank" style="text-decoration: none; display: inline-block; border: none; margin: 0; padding: 0;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none; margin: 0;">
-  </a>
-  <a href="https://medium.com/@francis220" target="_blank" style="text-decoration: none; display: inline-block; border: none; margin: 0; padding: 0;">
-    <img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border: none; margin: 0;">
   </a>
 </p>
 
