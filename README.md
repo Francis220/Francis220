@@ -8,7 +8,7 @@ Throughout my career, I have been drawn to projects that make a significant impa
 
 ## Let's connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/francis360/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none; margin: 0;">
   </a>
