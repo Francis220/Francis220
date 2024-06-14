@@ -11,6 +11,8 @@ Throughout my career, I have been drawn to projects that make a significant impa
 <p align="left">
   <a href="https://www.linkedin.com/in/francis360/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="[https://medium.com/@francis220](https://sergefrancis.com/)" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PERSONAL WEBSITE-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Personal Website">
   </a>
 </p>
 
